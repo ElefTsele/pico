@@ -15,3 +15,8 @@ pico-examples/
 workspace/
 experiments/
 docs/
+
+
+# --- Ignore projects ---
+projects/picoboard_button/
+projects/pio_blink/
