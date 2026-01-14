@@ -1,0 +1,17 @@
+# --- Build outputs everywhere ---
+**/build/
+**/.vscode/
+**/*.uf2
+**/*.elf
+**/*.bin
+**/*.map
+**/*.o
+**/*.a
+
+# --- Ignore SDK / external stuff ---
+sdk/
+tools/
+pico-examples/
+workspace/
+experiments/
+docs/
